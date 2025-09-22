@@ -4,9 +4,9 @@
 
 ---
 
-# 👨‍💻 Diksha Rajabhoj
+# 👨‍💻 Diksha Jawahar Rajabhoj
 
-Hi there! 👋 I’m **Diksha**, a Information Technology Engineering student passionate about technology 🤖  
+Hi there! 👋 I’m **Diksha Jawahar Rajabhoj**, a Information Technology Engineering student passionate about technology 🤖  
 I love building, learning, and exploring the world of software development! 🚀  
 
 ---
